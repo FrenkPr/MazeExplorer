@@ -1,5 +1,5 @@
 # MazeExplorer
-A "Maze Explorer" project game made with Unity during AIV 2nd year.<br/>
+A "Maze Explorer" exam project game made with Unity during AIV 2nd year.<br/>
 All rights reserved to AIV company.
 
 # Short description
